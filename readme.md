@@ -11,7 +11,7 @@ https://tp5-ejercicio-1.netlify.app/
 
 En una terminal usar el siguiente comando
 
-git clone https://github.com/darknet122/T.P-N-4-Javascript.git
+git clone https://tp5-ejercicio-1.netlify.app/
 
 ## Autor
 
